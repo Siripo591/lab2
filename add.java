@@ -4,10 +4,11 @@ public class add {
         int b=5;
 
         int result=a+b;
+
       
 
         System.out.println("Result:"+result);
     
-        System.out.println("multiplication:"+(a*b));
+        System.out.println("multiplication:"+(a*b)
     }
 }
