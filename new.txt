@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 lab
+=======
+devops lab
+>>>>>>> feature1
+lab2
