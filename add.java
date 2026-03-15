@@ -8,6 +8,6 @@ public class add {
 
         System.out.println("Result:"+result);
         System.out.println("Subtraction:"+Sub);
-        
+        System.out.println("multiplication:"+(a*b));
     }
 }
